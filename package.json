@@ -11,9 +11,11 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^11.1.1",
+    "axios": "^0.18.0",
     "cross-env": "^5.2.0",
-    "nuxt": "^2.0.0",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "nuxt": "^2.0.0"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
